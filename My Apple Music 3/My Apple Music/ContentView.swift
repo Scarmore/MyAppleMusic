@@ -24,7 +24,7 @@ struct ContentView: View {
                      .foregroundColor(.accentColor) */
                     HStack {
                         Text("Ascolta Ora")
-                            .foregroundColor(.black)
+                     //       .foregroundColor(.black)
                             .fontWeight(.bold)
                             .font(.system(size: 35))
                         // .padding(.trailing, 150)

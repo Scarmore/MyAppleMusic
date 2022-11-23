@@ -13,10 +13,15 @@ struct TabScreenView: View {
             ContentView()
                 .tabItem{Label("Ascolta Ora" , systemImage: "play.fill")
                 }
-               ScopriView()
+            ScopriView()
                 .tabItem{Label("Scopri" , systemImage: "square.grid.2x2")
                 }
-            //porcoddio
+            RadioView ()
+                .tabItem{Label("Radio" , systemImage: "dot.radiowaves.left.and.right")}
+        LibreriaView ()
+                .tabItem{Label("Libreria" , systemImage: "play.square.stack")}
+            CercaView ()
+                .tabItem{Label("Cerca" , systemImage: "magnifyingglass")}
         }
     }
 }

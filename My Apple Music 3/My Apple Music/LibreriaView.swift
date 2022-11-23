@@ -1,5 +1,5 @@
 //
-//  ScopriView.swift
+//  LibreriaView.swift
 //  My Apple Music
 //
 //  Created by Danilo Cotarella on 23/11/22.
@@ -7,15 +7,14 @@
 
 import SwiftUI
 
-struct ScopriView: View {
+struct LibreriaView: View {
     var body: some View {
-        Text("Scopri")
-
+        Text("Libreria")
     }
 }
 
-struct ScopriView_Previews: PreviewProvider {
+struct LibreriaView_Previews: PreviewProvider {
     static var previews: some View {
-        ScopriView()
+        LibreriaView()
     }
 }

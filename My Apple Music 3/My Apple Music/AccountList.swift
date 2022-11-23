@@ -41,20 +41,17 @@ struct AccountList: View {
                     Text(item)
                         .foregroundColor(.red)
                         
-                    
-                    
                 }
             }
+                
             
                 Text ("Solo 6,00 € in più al mese per un massimo di 6 persone")
                     .foregroundColor(.gray)
                     .fontWeight(.light)
-                    .padding(.top , 100)
-                
-                
             }
-        
+            Spacer ()
         }
+        
         }
     
     

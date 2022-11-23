@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		9C02D53A292BF40D0015A86B /* AccountList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C02D539292BF40D0015A86B /* AccountList.swift */; };
+		9C0C9604292E5F9700F4494E /* RadioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0C9603292E5F9700F4494E /* RadioView.swift */; };
+		9C0C9606292E5FF000F4494E /* LibreriaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0C9605292E5FF000F4494E /* LibreriaView.swift */; };
+		9C0C9608292E5FFE00F4494E /* CercaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0C9607292E5FFE00F4494E /* CercaView.swift */; };
 		9CD5C87A292B93EC00CA13FB /* SongPlaying.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD5C879292B93EC00CA13FB /* SongPlaying.swift */; };
 		9CDF42332922BA6700424775 /* My_Apple_MusicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDF42322922BA6700424775 /* My_Apple_MusicApp.swift */; };
 		9CDF42352922BA6700424775 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDF42342922BA6700424775 /* ContentView.swift */; };
@@ -19,6 +22,9 @@
 
 /* Begin PBXFileReference section */
 		9C02D539292BF40D0015A86B /* AccountList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountList.swift; sourceTree = "<group>"; };
+		9C0C9603292E5F9700F4494E /* RadioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioView.swift; sourceTree = "<group>"; };
+		9C0C9605292E5FF000F4494E /* LibreriaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibreriaView.swift; sourceTree = "<group>"; };
+		9C0C9607292E5FFE00F4494E /* CercaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CercaView.swift; sourceTree = "<group>"; };
 		9CD5C879292B93EC00CA13FB /* SongPlaying.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongPlaying.swift; sourceTree = "<group>"; };
 		9CDF422F2922BA6700424775 /* My Apple Music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Apple Music.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CDF42322922BA6700424775 /* My_Apple_MusicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Apple_MusicApp.swift; sourceTree = "<group>"; };
@@ -64,6 +70,9 @@
 				9CDF42342922BA6700424775 /* ContentView.swift */,
 				9C02D539292BF40D0015A86B /* AccountList.swift */,
 				9CE0638B292E255100DCADF0 /* ScopriView.swift */,
+				9C0C9603292E5F9700F4494E /* RadioView.swift */,
+				9C0C9605292E5FF000F4494E /* LibreriaView.swift */,
+				9C0C9607292E5FFE00F4494E /* CercaView.swift */,
 				9CD5C879292B93EC00CA13FB /* SongPlaying.swift */,
 				9CDF42362922BA6800424775 /* Assets.xcassets */,
 				9CDF42382922BA6800424775 /* Preview Content */,
@@ -150,8 +159,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9CDF42352922BA6700424775 /* ContentView.swift in Sources */,
+				9C0C9604292E5F9700F4494E /* RadioView.swift in Sources */,
+				9C0C9606292E5FF000F4494E /* LibreriaView.swift in Sources */,
 				9C02D53A292BF40D0015A86B /* AccountList.swift in Sources */,
 				9CE0638C292E255100DCADF0 /* ScopriView.swift in Sources */,
+				9C0C9608292E5FFE00F4494E /* CercaView.swift in Sources */,
 				9CDF42332922BA6700424775 /* My_Apple_MusicApp.swift in Sources */,
 				9CE0638A292E231200DCADF0 /* TabScreenView.swift in Sources */,
 				9CD5C87A292B93EC00CA13FB /* SongPlaying.swift in Sources */,
